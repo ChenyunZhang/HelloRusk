@@ -6,3 +6,8 @@
   <br>
   <p>Yokohama, Japan - 2020.2.4<br>website: https://hellorusk.net</p>
 </div>
+
+<br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=7ma7X&color=brightgreen)
